@@ -12,11 +12,12 @@ body {
     background-image: url('../images/Everett R Case - Hero.png');
     background-position: center;
     background-repeat: no-repeat;
+    background-size: auto;
     font-family: 'Abang';
     text-align: center;
     font-size: 5em;
     margin: 0px;
-    padding-top: 176px;
-    padding-bottom: 176px;
+    padding-top: 5%;
+    padding-bottom: 5%;
     -webkit-text-stroke: 2px black;
 }
