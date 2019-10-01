@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Abang';
+    src:url(../fonts/Abang.ttf);
+}
+h1 {
+    color: white;
+}
+body {
+    background-color: silver;
+}
+#hero {
+    background-image: url('../images/Everett R Case - Hero.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'Abang';
+    text-align: center;
+    font-size: 5em;
+    margin: 0px;
+    padding-top: 176px;
+    padding-bottom: 176px;
+    -webkit-text-stroke: 2px black;
+}
