@@ -6,7 +6,32 @@ h1 {
     color: white;
 }
 body {
-    background-color: silver;
+    background-color: #920000;
+}
+.main {
+    margin-left: 11%;
+    margin-right: 11%;
+    display: flex;
+    width: 78%;
+    flex-direction: row;
+}
+.left {
+    background-color: ivory;
+    order: 1;
+    flex-grow: 1;
+    padding: 2%;
+}
+.middle {
+    background-color: white;
+    order: 2;
+    flex-grow: 2;
+    padding: 2%;
+}
+.right {
+    background-color: ivory;
+    order: 3;
+    flex-grow: 1;
+    padding: 2%;
 }
 #hero {
     background-image: url('../images/Everett R Case - Hero.png');
